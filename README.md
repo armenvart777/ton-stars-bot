@@ -52,3 +52,5 @@ python bot.py
 MIT
 
 > Работает с TON API v2
+
+<!-- 2025-07-30 -->
