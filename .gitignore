@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.log
+*.db
+wallets.json
+autoreport.json
