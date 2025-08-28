@@ -25,6 +25,7 @@ Telegram-бот для отслеживания покупок Telegram Stars ч
 - matplotlib
 - TON API (tonapi.io)
 - CoinGecko API (курс TON)
+- Fragment API (статистика транзакций)
 
 ## Запуск
 
