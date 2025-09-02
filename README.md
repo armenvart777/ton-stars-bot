@@ -1,4 +1,4 @@
-# TON Stars Bot
+# TON Stars Bot 🌟
 
 Telegram-бот для отслеживания покупок Telegram Stars через TON-кошелёк.
 
@@ -50,3 +50,5 @@ python bot.py
 ## Лицензия
 
 MIT
+
+> Работает с TON API v2
